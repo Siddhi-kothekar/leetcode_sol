@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
