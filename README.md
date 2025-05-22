@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
