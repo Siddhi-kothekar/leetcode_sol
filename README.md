@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
