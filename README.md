@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
