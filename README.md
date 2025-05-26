@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
