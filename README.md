@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
 | ------- |
