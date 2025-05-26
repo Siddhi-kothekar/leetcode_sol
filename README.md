@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
