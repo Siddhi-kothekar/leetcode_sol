@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 ## Stack
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
