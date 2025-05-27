@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0054-spiral-matrix) |
 ## Linked List
 |  |
