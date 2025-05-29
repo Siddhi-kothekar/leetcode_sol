@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0180-consecutive-numbers) |
+| [0585-investments-in-2016](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0585-investments-in-2016) |
 | [0610-triangle-judgement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1278-product-price-at-a-given-date) |
