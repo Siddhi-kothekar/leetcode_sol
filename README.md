@@ -207,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0045-jump-game-ii) |
+## Database
+|  |
+| ------- |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
