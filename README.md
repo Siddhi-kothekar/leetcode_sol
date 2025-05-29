@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1452-restaurant-growth) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1670-patients-with-a-condition) |
