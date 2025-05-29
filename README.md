@@ -211,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
