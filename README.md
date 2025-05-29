@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2227-sum-of-subarray-ranges](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
+| [2227-sum-of-subarray-ranges](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
+| [2227-sum-of-subarray-ranges](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
