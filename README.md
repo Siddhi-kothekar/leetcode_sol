@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
