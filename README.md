@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0088-merge-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0055-jump-game) |
 ## Database
 |  |
 | ------- |
