@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2127-employees-whose-manager-left-the-company) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
