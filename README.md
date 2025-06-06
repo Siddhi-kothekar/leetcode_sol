@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0300-longest-increasing-subsequence) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
