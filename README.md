@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0072-edit-distance) |
+| [0383-ransom-note](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
