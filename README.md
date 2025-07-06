@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
