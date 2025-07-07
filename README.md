@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1046-max-consecutive-ones-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
