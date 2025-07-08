@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0229-majority-element-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0300-longest-increasing-subsequence) |
 ## Simulation
 |  |
