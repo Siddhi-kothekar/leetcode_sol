@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0229-majority-element-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0300-longest-increasing-subsequence) |
