@@ -140,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
 |  |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
