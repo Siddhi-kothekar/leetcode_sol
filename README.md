@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0496-next-greater-element-i) |
