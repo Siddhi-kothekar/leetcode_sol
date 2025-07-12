@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
+| [1250-longest-common-subsequence](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/1250-longest-common-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Siddhi-kothekar/leetcode_sol/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
